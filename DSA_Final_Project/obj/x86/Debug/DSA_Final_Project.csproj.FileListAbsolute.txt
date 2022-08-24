@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\bin\Debug\DSA_Final_Project.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\bin\Debug\DSA_Final_Project.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form2.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_buy.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_Home.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_cart.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form_Innovence.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.About.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\bin\Debug\DSA_Final_Project.exe
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\bin\Debug\DSA_Final_Project.pdb
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.csproj.AssemblyReference.cache
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.About.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form1.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form2.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_buy.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_cart.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.form_Home.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Form_Innovence.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.Properties.Resources.resources
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.csproj.GenerateResource.cache
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.exe
+C:\Users\DEll\source\repos\DSA_Final_Project\DSA_Final_Project\obj\x86\Debug\DSA_Final_Project.pdb
